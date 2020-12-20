@@ -5,13 +5,13 @@ According to the World Health Organisation(WHO), Cardiovascular diseases (CVDs) 
 
 Problem Statement The doctors of Health Hospital in Zastra wish to incorporate Data Science into their workings. Seeing the rising cases of heart diseases, they are specially interested in predicting the presence of heart disease in a person using some existing data. The first step they are taking towards it is to conduct a Datathon to find the best Machine Learning Engineers available out there.
 
-#Objective 
+# Objective 
 The idea behind this ML project is to build an ML model to determine if heart disease is present or not i.e if the target is 1 or 0.
 
-#Context
+# Context
 The doctors of Health Hospital in Zastra are tired of looking at new proposals for detecting heart disease using a Machine Learning model. They wish to understand the model and not rely on a magical black box. Can you help them out by first creating a model and then explaining how these models work?
 
-#Data Description
+# Data Description
 
 age: Age in years
 sex: 1 = male, 0 = female
